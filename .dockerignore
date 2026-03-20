@@ -1,0 +1,10 @@
+# Root .dockerignore
+**/node_modules/
+**/venv/
+**/__pycache__/
+**/.pytest_cache/
+**/*.db
+**/*.sqlite3
+.git/
+dist/
+build/

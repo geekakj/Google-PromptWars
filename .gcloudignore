@@ -1,0 +1,15 @@
+# Root .gcloudignore
+.gcloudignore
+.git/
+.gitignore
+**/node_modules/
+**/venv/
+**/__pycache__/
+**/.pytest_cache/
+**/*.db
+**/*.sqlite3
+dist/
+build/
+.vscode/
+.idea/
+.gemini/
